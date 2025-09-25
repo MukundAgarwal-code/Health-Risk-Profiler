@@ -2,7 +2,7 @@ import * as fs from "fs";
 import { fileTypeFromBuffer } from "file-type";
 
 //Utils
-import { searchGemini } from "../utils/gemini.js";
+import { searchGemini } from "../utils/Gemini.js";
 import ApiResponse from "../utils/ApiResponse.js";
 import prompts from "../utils/Prompts.js";
 
