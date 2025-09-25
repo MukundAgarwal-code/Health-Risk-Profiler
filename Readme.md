@@ -97,7 +97,7 @@ You can import this collection directly in Postman to test the API:
 ## 📡 API Usage Examples
 ### Endpoint
 
-`POST /api/analyse`
+`POST` : `https://health-risk-profiler.onrender.com/api/analyse`
 
 ### Request (Image Upload)
 
