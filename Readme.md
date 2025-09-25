@@ -27,7 +27,6 @@ It leverages **Google Gemini AI** for text understanding and reasoning, combined
 
 ```bash
 git clone https://github.com/MukundAgarwal-code/Health-Risk-Profiler.git
-
 cd Health-Risk-Profiler
 ```
 
